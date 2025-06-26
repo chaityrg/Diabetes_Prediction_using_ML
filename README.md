@@ -27,9 +27,9 @@ While assessing the SVM model, we experimented with kernels including Linear, RB
 
 ## Contents
 
-- **Notebook**: Jupyter notebook [`Diabetes Prediction Project.ipynb`](https://github.com/niloyahsan1/CSE422-ML-Project/blob/main/Diabetes%20Prediction%20Project.ipynb) containing the project code and analysis.
-- **Dataset**: CSV file [`Diabetes Prediction Dataset.csv`](https://github.com/niloyahsan1/CSE422-ML-Project/blob/main/Diabetes%20Prediction%20Dataset.csv) containing the dataset used for training and testing.
-- **Report**: Project report [`Project Report.pdf`](https://github.com/niloyahsan1/CSE422-ML-Project/blob/main/Project%20Report.pdf) summarizing the project objectives, methodology, results, and conclusions.
+- **Notebook**: Jupyter notebook [`Diabetes Prediction Project.ipynb`](https://github.com/chaityrg/Diabetes_Prediction_using_ML/blob/main/Diabetes_Prediction_Project.ipynb) containing the project code and analysis.
+- **Dataset**: CSV file [`Diabetes Prediction Dataset.csv`](https://github.com/chaityrg/Diabetes_Prediction_using_ML/blob/main/Diabetes_Prediction_Dataset.csv) containing the dataset used for training and testing.
+- **Report**: Project report [`Project Report.pdf`](https://github.com/chaityrg/Diabetes_Prediction_using_ML/blob/main/Project_Report.pdf) summarizing the project objectives, methodology, results, and conclusions.
 
 ## Usage
 
@@ -38,13 +38,13 @@ To run the project code, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/niloyahsan1/CSE422-ML-Project.git
+   git clone https://github.com/chaityrg/Diabetes_Prediction_using_ML.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd CSE422-ML-Project
+   cd Diabetes_Prediction_using_ML
    ```
 
 3. Open and run the Jupyter Notebook (`Diabetes_Prediction_Project.ipynb`) to execute the project code.
